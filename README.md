@@ -1,6 +1,6 @@
 #  vue-toDo
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a study aplication, I used this exercise for to pratice Vue a framework of the Javascript
 
 ## Recommended IDE Setup
 
